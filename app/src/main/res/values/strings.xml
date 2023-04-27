@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">APP_CITAS</string>
+    <string name="hint_nombres">Nombres:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_correo_electronico">Correo eletronico:</string>
+    <string name="hint_motivo">Motivo:</string>
+    <string name="hint_fecha">Fecha:</string>
+    <string name="btn_guarda">Guardar registro</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+    <string name="crear_base">Crear base</string>
+    <string name="regresar">Regresar</string>
+</resources>
