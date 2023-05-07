@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "313572901508",
+    "firebase_url": "https://crudapp-fa505-default-rtdb.firebaseio.com",
     "project_id": "crudapp-fa505",
     "storage_bucket": "crudapp-fa505.appspot.com"
   },

@@ -3,6 +3,7 @@ package com.example.app_crud.entidades;
 public class Agenda {
     private int id;
 
+    private String uid;
     private String nombres;
     private String telefono;
     private String correo_electronico;
@@ -55,5 +56,13 @@ public class Agenda {
 
     public void setNombres(String nombres) {
         this.nombres = nombres;
+    }
+
+    public String getUid() {
+        return uid;
+    }
+
+    public void setUid(String uid) {
+        this.uid = uid;
     }
 }
